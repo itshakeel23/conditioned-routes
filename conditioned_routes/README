@@ -3,16 +3,14 @@ Copyright (c) 2011
 conditioned routes
 =========================================================================================
   Version: 1.0
-  Author:  
-  Plugin Homepage: 
-  Contributors:  
-  License:  
+  Author:  Shakeel Mumtaz
+  Plugin Homepage: https://github.com/itshakeel23/conditioned-routes
+  Contributors:  Hassan abdul Rehman, Jhanger Gul
 
   Introduction:
   -------------
   Conditioned Routes is a simple and robust plugin that extends control over routes.
 
-  
   Features:
   -----------
   -> matching against sudomain, hostname, relative path or full url
@@ -29,7 +27,7 @@ Installation
 =========================================================================================
   Conditioned Routes plugin can be installed by running this command from the application root
   
-  >> ruby script/plugin install GIT_PATH
+  >> ruby script/plugin install git@github.com:itshakeel23/conditioned-routes.git
   
 Setup
 =========================================================================================
@@ -54,10 +52,13 @@ Examples
 ===========================================================================================
 
   Enjoy the simple Conditioned Routes implementation.
-  Author: 
-  Contact: 
-  Plugin Homepage: 
+  Version: 1.0
+  Author:  Shakeel Mumtaz
+  Plugin Homepage: https://github.com/itshakeel23/conditioned-routes
+  Contributors:  Hassan abdul Rehman, Jhanger Gul
 
   Any feedback/comment/issue/donation is welcome!
+
+  Contact: itshakeel23[at]gmail[dot]com 
 
 ===========================================================================================
